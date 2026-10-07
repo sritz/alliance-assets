@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 135" width="160" height="135">
+  <defs>
+    <linearGradient id="alienGreen" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#86efac" />
+      <stop offset="55%" stop-color="#00ff66" />
+      <stop offset="100%" stop-color="#15803d" />
+    </linearGradient>
+  </defs>
+  <path d="M 68,78 L 68,95 C 68,104 46,112 16,134 L 144,134 C 114,112 92,104 92,95 L 92,78 Z" fill="url(#alienGreen)" stroke="#00ff66" stroke-width="1.2" />
+  <path d="M 80,4 C 50,4 36,22 36,46 C 36,66 52,80 70,90 C 74,92 78,93 80,93 C 82,93 86,92 90,90 C 108,80 124,66 124,46 C 124,22 110,4 80,4 Z" fill="url(#alienGreen)" stroke="#00ff66" stroke-width="1.5" />
+  <path d="M 68,92 C 73,97 87,97 92,92 C 86,95 74,95 68,92 Z" fill="#010206" opacity="0.65" />
+  <path d="M 46,38 C 54,34 67,42 73,58 C 67,65 52,60 46,38 Z" fill="#010206" stroke="#00ff66" stroke-width="0.8" />
+  <path d="M 114,38 C 106,34 93,42 87,58 C 93,65 108,60 114,38 Z" fill="#010206" stroke="#00ff66" stroke-width="0.8" />
+  <ellipse cx="76.5" cy="68" rx="1.5" ry="2.8" transform="rotate(-15 76.5 68)" fill="#010206" />
+  <ellipse cx="83.5" cy="68" rx="1.5" ry="2.8" transform="rotate(15 83.5 68)" fill="#010206" />
+  <path d="M 73,78 Q 80,80 87,78 Q 80,81.5 73,78 Z" fill="#010206" />
+  <path d="M 50,111 Q 62,114 72,113 Q 62,112 50,111 Z" fill="#010206" opacity="0.9" />
+  <path d="M 110,111 Q 98,114 88,113 Q 98,112 110,111 Z" fill="#010206" opacity="0.9" />
+</svg>
